@@ -13,3 +13,4 @@ tensorflow==1.15.2
 tqdm==4.31.1
 git+https://github.com/ppwwyyxx/tensorpack.git
 numpy==1.17.0
+setuptools>=70.0.0 # not directly required, pinned by Snyk to avoid a vulnerability
